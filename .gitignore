@@ -136,3 +136,6 @@ $RECYCLE.BIN/
 *.v1
 *.2
 *.vsidx
+
+# Custom
+.vs/
