@@ -12,7 +12,7 @@ To use DNDH Remover, follow these steps:
     DNDHRemover.exe <path_to_PE_file>
 
 ## Before Removing
-![](https://github.com/ZeroLP/DNDHRemover/blob/main/Before.jpg)
+![](https://github.com/ZeroLP/DNDHRemover/blob/main/Before.JPG)
 
 ## After Removing
-![](https://github.com/ZeroLP/DNDHRemover/blob/main/After.jpg)
+![](https://github.com/ZeroLP/DNDHRemover/blob/main/After.JPG)
